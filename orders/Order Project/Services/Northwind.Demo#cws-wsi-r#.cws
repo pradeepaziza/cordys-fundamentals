@@ -1,0 +1,2999 @@
+
+<WebserviceInterfaceRuntime
+	type="com.cordys.wsdl.WebserviceInterfaceRuntime"
+	RuntimeDocumentID="000c29a3-0824-11e0-ea18-39acac6e12eb">
+	<DocumentID>000c29a3-0824-11e0-ea18-39acac5c92ea</DocumentID>
+	<Name>Northwind.Demo</Name>
+	<Description>Northwind.Demo</Description>
+	<CreatedBy>Student1</CreatedBy>
+	<CreationDate>2011-03-17T18:10:38.146</CreationDate>
+	<Notes/>
+	<RuntimeKey>Northwind.Demo</RuntimeKey>
+	<ISVPName>Academy Cordys Fundamentals</ISVPName>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<WebserviceOperations>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba71e669bbd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba71dbf1bbc</DocumentID>
+			<Name>GetCustomersObjectsWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomersObjectsWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.446</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomersObjectsWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba770abdbc1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba770081bc0</DocumentID>
+			<Name>GetPreviousTerritoriesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousTerritoriesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.447</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousTerritoriesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba7c9ce9bc5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba7c94c9bc4</DocumentID>
+			<Name>GetCustomersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.475</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba7ffb69bc9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba7ff30dbc8</DocumentID>
+			<Name>GetCustomerCustomerDemoObject</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomerCustomerDemoObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.471</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomerCustomerDemoObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba829b85bcd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba82933dbcc</DocumentID>
+			<Name>GetEmployeesObjectWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeesObjectWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.432</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeesObjectWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba84b52dbd1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba84ad0dbd0</DocumentID>
+			<Name>GetNextOrdersObjectsWithOrder_x0020_Details</Name>
+			<Description>Runtime reference for Web Service Operation GetNextOrdersObjectsWithOrder_x0020_Details in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.436</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextOrdersObjectsWithOrder_x0020_Details</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba86db91bd5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba86d371bd4</DocumentID>
+			<Name>GetNextOrder_x0020_DetailsObjectsForOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetNextOrder_x0020_DetailsObjectsForOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.472</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextOrder_x0020_DetailsObjectsForOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba88ec3dbd9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba88e139bd8</DocumentID>
+			<Name>GetNextRegionObjectsWithTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetNextRegionObjectsWithTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.435</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextRegionObjectsWithTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba8aef01bdd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba8ae6cdbdc</DocumentID>
+			<Name>GetOrdersObjectWithOrder_x0020_Details</Name>
+			<Description>Runtime reference for Web Service Operation GetOrdersObjectWithOrder_x0020_Details in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.434</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrdersObjectWithOrder_x0020_Details</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba8e25e5be1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba8e1db1be0</DocumentID>
+			<Name>GetNextEmployeeTerritoriesObjectsForTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetNextEmployeeTerritoriesObjectsForTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.455</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextEmployeeTerritoriesObjectsForTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba9025c5be5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba901d91be4</DocumentID>
+			<Name>GetPreviousProductsObjectsForCategories</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousProductsObjectsForCategories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.442</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousProductsObjectsForCategories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba9221bdbe9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba92199dbe8</DocumentID>
+			<Name>GetPreviousCustomerDemographicsObjectsWithCustomerCustomerDemo</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCustomerDemographicsObjectsWithCustomerCustomerDemo in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.486</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCustomerDemographicsObjectsWithCustomerCustomerDemo</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba948089bed">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba947689bec</DocumentID>
+			<Name>GetNextCategoriesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCategoriesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.492</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCategoriesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba96eb0dbf1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba96e2c5bf0</DocumentID>
+			<Name>GetProductsObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetProductsObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.491</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetProductsObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba99bc9dbf5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba99b455bf4</DocumentID>
+			<Name>GetOrder_x0020_DetailsObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetOrder_x0020_DetailsObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.481</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrder_x0020_DetailsObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba9bec4dbf9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba9be42dbf8</DocumentID>
+			<Name>GetShippersObject</Name>
+			<Description>Runtime reference for Web Service Operation GetShippersObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.46</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetShippersObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3ba9ddee5bfd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba9dd6c5bfc</DocumentID>
+			<Name>GetNextProductsObjectsWithOrder_x0020_Details</Name>
+			<Description>Runtime reference for Web Service Operation GetNextProductsObjectsWithOrder_x0020_Details in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.435</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextProductsObjectsWithOrder_x0020_Details</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baa00189b01">
+			<DocumentID>000c29a3-0824-11e0-ea18-3ba9ff955b00</DocumentID>
+			<Name>GetCustomersObjectWithCustomerCustomerDemo</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomersObjectWithCustomerCustomerDemo in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.473</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomersObjectWithCustomerCustomerDemo</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baa26799b05">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baa25d85b04</DocumentID>
+			<Name>GetNextSuppliersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextSuppliersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.438</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextSuppliersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baa4a301b09">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baa49a7db08</DocumentID>
+			<Name>GetPreviousProductsObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousProductsObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.433</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousProductsObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baa6c48db0d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baa6bc59b0c</DocumentID>
+			<Name>UpdateTerritories</Name>
+			<Description>Runtime reference for Web Service Operation UpdateTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.45</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baa8a5a5b11">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baa89ba5b10</DocumentID>
+			<Name>GetCustomersObjectsWithCustomerCustomerDemo</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomersObjectsWithCustomerCustomerDemo in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.485</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomersObjectsWithCustomerCustomerDemo</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baaa8735b15">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baaa7f15b14</DocumentID>
+			<Name>GetCustomerCustomerDemoObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomerCustomerDemoObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.454</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomerCustomerDemoObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baac87f1b19">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baac7f95b18</DocumentID>
+			<Name>GetPreviousCategoriesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCategoriesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.445</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCategoriesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baae9c5db1d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baae9159b1c</DocumentID>
+			<Name>GetOrdersObjectsWithOrder_x0020_Details</Name>
+			<Description>Runtime reference for Web Service Operation GetOrdersObjectsWithOrder_x0020_Details in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.469</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrdersObjectsWithOrder_x0020_Details</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bab0a949b21">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bab0a129b20</DocumentID>
+			<Name>GetNextCustomerCustomerDemoObjectsForCustomers</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCustomerCustomerDemoObjectsForCustomers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.476</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCustomerCustomerDemoObjectsForCustomers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bab407ddb25">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bab3ff6db24</DocumentID>
+			<Name>GetOrder_x0020_DetailsObjectsForProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetOrder_x0020_DetailsObjectsForProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.463</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrder_x0020_DetailsObjectsForProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bab813f5b29">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bab80a31b28</DocumentID>
+			<Name>GetNextOrder_x0020_DetailsObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextOrder_x0020_DetailsObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.478</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextOrder_x0020_DetailsObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3babb233db2d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3babb1af5b2c</DocumentID>
+			<Name>GetPreviousProductsObjectsWithOrder_x0020_Details</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousProductsObjectsWithOrder_x0020_Details in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.468</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousProductsObjectsWithOrder_x0020_Details</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3babddaddb31">
+			<DocumentID>000c29a3-0824-11e0-ea18-3babdd0ddb30</DocumentID>
+			<Name>GetPreviousCustomersObjectsWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCustomersObjectsWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.494</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCustomersObjectsWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bac05871b35">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bac05015b34</DocumentID>
+			<Name>GetNextOrdersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextOrdersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.493</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextOrdersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bac2da8db39">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bac2d245b38</DocumentID>
+			<Name>GetCustomersObject</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomersObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.498</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomersObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bac52c11b3d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bac52275b3c</DocumentID>
+			<Name>GetOrder_x0020_DetailsObject</Name>
+			<Description>Runtime reference for Web Service Operation GetOrder_x0020_DetailsObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.454</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrder_x0020_DetailsObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bac7b099b41">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bac7a815b40</DocumentID>
+			<Name>GetPreviousEmployeesObjectsWithEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousEmployeesObjectsWithEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.431</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousEmployeesObjectsWithEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bac99ffdb45">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bac99585b44</DocumentID>
+			<Name>GetOrder_x0020_DetailsObjectsForOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetOrder_x0020_DetailsObjectsForOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.45</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrder_x0020_DetailsObjectsForOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bacba019b49">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bacb97d1b48</DocumentID>
+			<Name>GetNextEmployeesObjectsWithEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetNextEmployeesObjectsWithEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.436</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextEmployeesObjectsWithEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bacdabd9b4d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bacda391b4c</DocumentID>
+			<Name>Update</Name>
+			<Description>Runtime reference for Web Service Operation Update in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.444</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/Update</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bacf8729b51">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bacf7eb9b50</DocumentID>
+			<Name>GetCustomerCustomerDemoObjectsForCustomers</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomerCustomerDemoObjectsForCustomers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.453</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomerCustomerDemoObjectsForCustomers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bad1745db55">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bad16c51b54</DocumentID>
+			<Name>GetNextTerritoriesObjectsWithEmployeeTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetNextTerritoriesObjectsWithEmployeeTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.447</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextTerritoriesObjectsWithEmployeeTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bad4c0d1b59">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bad4b6d1b58</DocumentID>
+			<Name>GetProductsObjectsWithOrder_x0020_Details</Name>
+			<Description>Runtime reference for Web Service Operation GetProductsObjectsWithOrder_x0020_Details in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.446</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetProductsObjectsWithOrder_x0020_Details</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bad6e2e9b5d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bad6d939b5c</DocumentID>
+			<Name>GetNextTerritoriesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextTerritoriesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.446</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextTerritoriesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bad8c1bdb61">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bad8b9b1b60</DocumentID>
+			<Name>GetPreviousEmployeeTerritoriesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousEmployeeTerritoriesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.478</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousEmployeeTerritoriesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3badaad89b65">
+			<DocumentID>000c29a3-0824-11e0-ea18-3badaa48db64</DocumentID>
+			<Name>GetEmployeesObjectsWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeesObjectsWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.491</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeesObjectsWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3badcb0c5b69">
+			<DocumentID>000c29a3-0824-11e0-ea18-3badca73db68</DocumentID>
+			<Name>UpdateEmployees</Name>
+			<Description>Runtime reference for Web Service Operation UpdateEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.484</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3badeb84db6d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3badeb005b6c</DocumentID>
+			<Name>GetCustomerDemographicsObject</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomerDemographicsObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.451</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomerDemographicsObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bae0b4f9b71">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bae0acc5b70</DocumentID>
+			<Name>GetNextOrdersObjectsForShippers</Name>
+			<Description>Runtime reference for Web Service Operation GetNextOrdersObjectsForShippers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.481</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextOrdersObjectsForShippers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bae2e085b75">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bae2d6fdb74</DocumentID>
+			<Name>GetPreviousProductsObjectsForSuppliers</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousProductsObjectsForSuppliers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.498</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousProductsObjectsForSuppliers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bae53461b79">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bae52c19b78</DocumentID>
+			<Name>UpdateCategories</Name>
+			<Description>Runtime reference for Web Service Operation UpdateCategories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.464</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateCategories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bae747a1b7d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bae73f1db7c</DocumentID>
+			<Name>GetTerritoriesObject</Name>
+			<Description>Runtime reference for Web Service Operation GetTerritoriesObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.443</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetTerritoriesObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bae93359b81">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bae92959b80</DocumentID>
+			<Name>GetNextEmployeesObjectsWithEmployeeTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetNextEmployeesObjectsWithEmployeeTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.475</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextEmployeesObjectsWithEmployeeTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baeb1cb9b85">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baeb14adb84</DocumentID>
+			<Name>GetSuppliersObjectWithProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetSuppliersObjectWithProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.462</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetSuppliersObjectWithProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baed459db89">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baed3cb5b88</DocumentID>
+			<Name>GetEmployeeTerritoriesObjectsForEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeeTerritoriesObjectsForEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.499</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeeTerritoriesObjectsForEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baef4695b8d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baef3e61b8c</DocumentID>
+			<Name>GetNextCustomersObjectsWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCustomersObjectsWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.466</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCustomersObjectsWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baf1c4a1b91">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baf1bc31b90</DocumentID>
+			<Name>GetRegionObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetRegionObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.492</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetRegionObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baf4cd09b95">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baf4c2b9b94</DocumentID>
+			<Name>GetPreviousRegionObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousRegionObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.487</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousRegionObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baf708fdb99">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baf70029b98</DocumentID>
+			<Name>GetSuppliersObjectsWithProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetSuppliersObjectsWithProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.486</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetSuppliersObjectsWithProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baf954b9b9d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baf94c71b9c</DocumentID>
+			<Name>GetSuppliersObject</Name>
+			<Description>Runtime reference for Web Service Operation GetSuppliersObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.484</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetSuppliersObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bafb4a21ba1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bafb4139ba0</DocumentID>
+			<Name>GetCategoriesObject</Name>
+			<Description>Runtime reference for Web Service Operation GetCategoriesObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.472</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCategoriesObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bafd7111ba5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bafd6815ba4</DocumentID>
+			<Name>GetEmployeeTerritoriesObject</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeeTerritoriesObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.462</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeeTerritoriesObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3baff7119ba9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3baff67a5ba8</DocumentID>
+			<Name>GetTerritoriesObjectsForRegion</Name>
+			<Description>Runtime reference for Web Service Operation GetTerritoriesObjectsForRegion in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.442</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetTerritoriesObjectsForRegion</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb016be5bad">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb0162e9bac</DocumentID>
+			<Name>GetOrdersObjectsForCustomers</Name>
+			<Description>Runtime reference for Web Service Operation GetOrdersObjectsForCustomers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.498</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrdersObjectsForCustomers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb03bef9bb1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb03b535bb0</DocumentID>
+			<Name>GetEmployeesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.488</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb0657d1bb5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb064d59bb4</DocumentID>
+			<Name>GetPreviousTerritoriesObjectsWithEmployeeTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousTerritoriesObjectsWithEmployeeTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.443</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousTerritoriesObjectsWithEmployeeTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb087719bb9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb086d41bb8</DocumentID>
+			<Name>GetPreviousShippersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousShippersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.431</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousShippersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb0a73edbbd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb0a6bb9bbc</DocumentID>
+			<Name>GetPreviousCategoriesObjectsWithProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCategoriesObjectsWithProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.432</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCategoriesObjectsWithProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb0c8c91bc1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb0c7099bc0</DocumentID>
+			<Name>GetPreviousEmployeesObjectsWithEmployeeTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousEmployeesObjectsWithEmployeeTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.483</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousEmployeesObjectsWithEmployeeTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb0ed34dbc5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb0e9f59bc4</DocumentID>
+			<Name>GetPreviousEmployeeTerritoriesObjectsForTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousEmployeeTerritoriesObjectsForTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.443</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousEmployeeTerritoriesObjectsForTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb10dc8dbc9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb10d14dbc8</DocumentID>
+			<Name>GetNextCustomerCustomerDemoObjectsForCustomerDemographics</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCustomerCustomerDemoObjectsForCustomerDemographics in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.448</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCustomerCustomerDemoObjectsForCustomerDemographics</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb1308f5bcd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb12fee1bcc</DocumentID>
+			<Name>GetEmployeesObjectWithEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeesObjectWithEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.467</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeesObjectWithEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb1578c9bd1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb154b15bd0</DocumentID>
+			<Name>GetCategoriesObjectsWithProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetCategoriesObjectsWithProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.462</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCategoriesObjectsWithProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb180341bd5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb17faa9bd4</DocumentID>
+			<Name>GetNextCustomerCustomerDemoObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCustomerCustomerDemoObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.496</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCustomerCustomerDemoObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb19f4c1bd9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb19ec01bd8</DocumentID>
+			<Name>GetNextProductsObjectsForCategories</Name>
+			<Description>Runtime reference for Web Service Operation GetNextProductsObjectsForCategories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.476</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextProductsObjectsForCategories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb1c4915bdd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb1c407dbdc</DocumentID>
+			<Name>GetNextOrdersObjectsForEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetNextOrdersObjectsForEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.465</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextOrdersObjectsForEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb1e7f55be1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb1e64b1be0</DocumentID>
+			<Name>GetTerritoriesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetTerritoriesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.49</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetTerritoriesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb2083e5be5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb207afdbe4</DocumentID>
+			<Name>GetPreviousEmployeesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousEmployeesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.496</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousEmployeesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb227c6dbe9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb227425be8</DocumentID>
+			<Name>GetProductsObjectsForCategories</Name>
+			<Description>Runtime reference for Web Service Operation GetProductsObjectsForCategories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.437</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetProductsObjectsForCategories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb268dc1bed">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb25fc0dbec</DocumentID>
+			<Name>GetPreviousSuppliersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousSuppliersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.468</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousSuppliersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb28ae35bf1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb28a421bf0</DocumentID>
+			<Name>GetShippersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetShippersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.44</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetShippersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb2aa159bf5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb2a9911bf4</DocumentID>
+			<Name>GetPreviousShippersObjectsWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousShippersObjectsWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.47</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousShippersObjectsWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb2ca5fdbf9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb2c9c9dbf8</DocumentID>
+			<Name>GetCategoriesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetCategoriesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.481</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCategoriesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb2e9881bfd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb2e8ffdbfc</DocumentID>
+			<Name>GetTerritoriesObjectWithEmployeeTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetTerritoriesObjectWithEmployeeTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.441</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetTerritoriesObjectWithEmployeeTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb3247f1b01">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb323e7db00</DocumentID>
+			<Name>GetProductsObjectsForSuppliers</Name>
+			<Description>Runtime reference for Web Service Operation GetProductsObjectsForSuppliers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.489</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetProductsObjectsForSuppliers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb348cb9b05">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb3483a9b04</DocumentID>
+			<Name>GetOrdersObject</Name>
+			<Description>Runtime reference for Web Service Operation GetOrdersObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.453</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrdersObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb36b3a9b09">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb36ab39b08</DocumentID>
+			<Name>GetPreviousCustomerCustomerDemoObjectsForCustomers</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCustomerCustomerDemoObjectsForCustomers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.492</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCustomerCustomerDemoObjectsForCustomers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb39a519b0d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb399a65b0c</DocumentID>
+			<Name>GetPreviousOrder_x0020_DetailsObjectsForProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousOrder_x0020_DetailsObjectsForProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.439</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousOrder_x0020_DetailsObjectsForProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb3bb359b11">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb3baae9b10</DocumentID>
+			<Name>GetPreviousOrdersObjectsWithOrder_x0020_Details</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousOrdersObjectsWithOrder_x0020_Details in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.497</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousOrdersObjectsWithOrder_x0020_Details</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb3dd639b15">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb3dcdf1b14</DocumentID>
+			<Name>UpdateOrders</Name>
+			<Description>Runtime reference for Web Service Operation UpdateOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.451</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb3fd051b19">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb3fc7f5b18</DocumentID>
+			<Name>UpdateEmployeeTerritories</Name>
+			<Description>Runtime reference for Web Service Operation UpdateEmployeeTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.474</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateEmployeeTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb41f3d1b1d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb41eb11b1c</DocumentID>
+			<Name>GetOrdersObjectsForShippers</Name>
+			<Description>Runtime reference for Web Service Operation GetOrdersObjectsForShippers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.468</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrdersObjectsForShippers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb43f221b21">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb43e9d9b20</DocumentID>
+			<Name>GetEmployeesObjectsWithEmployeeTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeesObjectsWithEmployeeTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.434</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeesObjectsWithEmployeeTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb4644e5b25">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb463cc5b24</DocumentID>
+			<Name>GetCustomerDemographicsObjectsWithCustomerCustomerDemo</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomerDemographicsObjectsWithCustomerCustomerDemo in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.441</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomerDemographicsObjectsWithCustomerCustomerDemo</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb48e6e1b29">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb48dd6db28</DocumentID>
+			<Name>GetPreviousCustomerCustomerDemoObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCustomerCustomerDemoObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.483</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCustomerCustomerDemoObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb4b3eb9b2d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb4b3671b2c</DocumentID>
+			<Name>GetShippersObjectWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetShippersObjectWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.44</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetShippersObjectWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb4d3c7db31">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb4d3435b30</DocumentID>
+			<Name>GetNextOrdersObjectsForCustomers</Name>
+			<Description>Runtime reference for Web Service Operation GetNextOrdersObjectsForCustomers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.477</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextOrdersObjectsForCustomers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb4f4f59b35">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb4f4469b34</DocumentID>
+			<Name>UpdateOrder_x0020_Details</Name>
+			<Description>Runtime reference for Web Service Operation UpdateOrder_x0020_Details in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.482</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateOrder_x0020_Details</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb520f41b39">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb520695b38</DocumentID>
+			<Name>UpdateProducts</Name>
+			<Description>Runtime reference for Web Service Operation UpdateProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.445</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb541485b3d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb540ac1b3c</DocumentID>
+			<Name>GetPreviousOrdersObjectsForCustomers</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousOrdersObjectsForCustomers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.479</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousOrdersObjectsForCustomers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb5635adb41">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb562c4db40</DocumentID>
+			<Name>GetNextProductsObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextProductsObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.497</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextProductsObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb591c55b45">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb5913e5b44</DocumentID>
+			<Name>GetPreviousOrder_x0020_DetailsObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousOrder_x0020_DetailsObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.467</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousOrder_x0020_DetailsObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb5b3d05b49">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb5b34a9b48</DocumentID>
+			<Name>UpdateCustomers</Name>
+			<Description>Runtime reference for Web Service Operation UpdateCustomers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.482</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateCustomers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb5d6bc5b4d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb5d62c9b4c</DocumentID>
+			<Name>GetEmployeeTerritoriesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeeTerritoriesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.488</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeeTerritoriesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb5f798db51">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb5f6fddb50</DocumentID>
+			<Name>GetNextOrder_x0020_DetailsObjectsForProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetNextOrder_x0020_DetailsObjectsForProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.452</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextOrder_x0020_DetailsObjectsForProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb6282d1b55">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb627331b54</DocumentID>
+			<Name>GetPreviousOrder_x0020_DetailsObjectsForOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousOrder_x0020_DetailsObjectsForOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.445</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousOrder_x0020_DetailsObjectsForOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb6539bdb59">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb652fe5b58</DocumentID>
+			<Name>UpdateRegion</Name>
+			<Description>Runtime reference for Web Service Operation UpdateRegion in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.449</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateRegion</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb685409b5d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb684801b5c</DocumentID>
+			<Name>GetPreviousCustomerCustomerDemoObjectsForCustomerDemographics</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCustomerCustomerDemoObjectsForCustomerDemographics in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.483</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCustomerCustomerDemoObjectsForCustomerDemographics</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb6a9b29b61">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb6a9151b60</DocumentID>
+			<Name>UpdateCustomerCustomerDemo</Name>
+			<Description>Runtime reference for Web Service Operation UpdateCustomerCustomerDemo in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.493</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateCustomerCustomerDemo</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb6ddc21b65">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb6dd34db64</DocumentID>
+			<Name>GetCustomerCustomerDemoObjectsForCustomerDemographics</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomerCustomerDemoObjectsForCustomerDemographics in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.467</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomerCustomerDemoObjectsForCustomerDemographics</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb7002c1b69">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb6ffa65b68</DocumentID>
+			<Name>GetRegionObjectsWithTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetRegionObjectsWithTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.451</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetRegionObjectsWithTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb7217f5b6d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb720db9b6c</DocumentID>
+			<Name>GetNextTerritoriesObjectsForRegion</Name>
+			<Description>Runtime reference for Web Service Operation GetNextTerritoriesObjectsForRegion in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.487</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextTerritoriesObjectsForRegion</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb7440b1b71">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb743841b70</DocumentID>
+			<Name>GetNextRegionObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextRegionObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.434</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextRegionObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb765509b75">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb764b95b74</DocumentID>
+			<Name>GetNextShippersObjectsWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetNextShippersObjectsWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.464</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextShippersObjectsWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb7b19a9b79">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb7b0ef5b78</DocumentID>
+			<Name>GetRegionObjectWithTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetRegionObjectWithTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.471</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetRegionObjectWithTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb7e670db7d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb7e5e89b7c</DocumentID>
+			<Name>GetPreviousCustomersObjectsWithCustomerCustomerDemo</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCustomersObjectsWithCustomerCustomerDemo in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.441</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCustomersObjectsWithCustomerCustomerDemo</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb8074d5b81">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb806c79b80</DocumentID>
+			<Name>GetNextShippersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextShippersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.473</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextShippersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb8273c5b85">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb826b55b84</DocumentID>
+			<Name>GetPreviousSuppliersObjectsWithProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousSuppliersObjectsWithProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.475</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousSuppliersObjectsWithProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb84d011b89">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb84c78db88</DocumentID>
+			<Name>GetNextEmployeesObjectsWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetNextEmployeesObjectsWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.494</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextEmployeesObjectsWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb877dc5b8d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb8762d1b8c</DocumentID>
+			<Name>GetPreviousEmployeesObjectsWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousEmployeesObjectsWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.497</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousEmployeesObjectsWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb89d471b91">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb89cad5b90</DocumentID>
+			<Name>GetCustomerDemographicsObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomerDemographicsObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.489</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomerDemographicsObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb8bfcf1b95">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb8bf319b94</DocumentID>
+			<Name>GetOrdersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetOrdersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.461</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrdersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb8e2111b99">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb8e1775b98</DocumentID>
+			<Name>GetEmployeesObject</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeesObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.48</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeesObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb901ba1b9d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb901345b9c</DocumentID>
+			<Name>GetNextEmployeesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextEmployeesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.472</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextEmployeesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb926ec9ba1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb926505ba0</DocumentID>
+			<Name>GetSuppliersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetSuppliersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.466</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetSuppliersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb97f641ba5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb97ed59ba4</DocumentID>
+			<Name>UpdateShippers</Name>
+			<Description>Runtime reference for Web Service Operation UpdateShippers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.437</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateShippers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb9a262dba9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb9a1d95ba8</DocumentID>
+			<Name>GetEmployeesObjectsWithEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeesObjectsWithEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.496</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeesObjectsWithEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb9c5079bad">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb9c481dbac</DocumentID>
+			<Name>GetPreviousEmployeesObjectsForEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousEmployeesObjectsForEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.482</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousEmployeesObjectsForEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bb9e9b31bb1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bb9e9109bb0</DocumentID>
+			<Name>GetPreviousRegionObjectsWithTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousRegionObjectsWithTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.453</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousRegionObjectsWithTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bba0cae1bb5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bba0c11dbb4</DocumentID>
+			<Name>GetPreviousEmployeeTerritoriesObjectsForEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousEmployeeTerritoriesObjectsForEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.489</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousEmployeeTerritoriesObjectsForEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bba2f415bb9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bba2eb91bb8</DocumentID>
+			<Name>GetNextCategoriesObjectsWithProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCategoriesObjectsWithProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.494</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCategoriesObjectsWithProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bba536adbbd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bba52b6dbbc</DocumentID>
+			<Name>GetRegionObject</Name>
+			<Description>Runtime reference for Web Service Operation GetRegionObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.495</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetRegionObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bba78bc9bc1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bba782cdbc0</DocumentID>
+			<Name>GetNextCustomerDemographicsObjectsWithCustomerCustomerDemo</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCustomerDemographicsObjectsWithCustomerCustomerDemo in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.461</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCustomerDemographicsObjectsWithCustomerCustomerDemo</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbaac401bc5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbaab989bc4</DocumentID>
+			<Name>UpdateSuppliers</Name>
+			<Description>Runtime reference for Web Service Operation UpdateSuppliers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.438</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateSuppliers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbad4b81bc9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbad4181bc8</DocumentID>
+			<Name>GetPreviousCustomersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCustomersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.44</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCustomersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbaff3d1bcd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbafeb89bcc</DocumentID>
+			<Name>GetNextEmployeeTerritoriesObjectsForEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetNextEmployeeTerritoriesObjectsForEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.439</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextEmployeeTerritoriesObjectsForEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbb268e1bd1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbb26035bd0</DocumentID>
+			<Name>GetNextCustomerDemographicsObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCustomerDemographicsObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.452</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCustomerDemographicsObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbb4e765bd5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbb4de91bd4</DocumentID>
+			<Name>GetEmployeesObjectWithEmployeeTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeesObjectWithEmployeeTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.439</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeesObjectWithEmployeeTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbb7c1f1bd9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbb7b96dbd8</DocumentID>
+			<Name>GetPreviousOrdersObjectsForShippers</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousOrdersObjectsForShippers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.47</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousOrdersObjectsForShippers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbba1055bdd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbba06a5bdc</DocumentID>
+			<Name>GetCustomerDemographicsObjectWithCustomerCustomerDemo</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomerDemographicsObjectWithCustomerCustomerDemo in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.464</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomerDemographicsObjectWithCustomerCustomerDemo</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbbc3579be1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbbc2bb5be0</DocumentID>
+			<Name>GetNextEmployeeTerritoriesObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextEmployeeTerritoriesObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.449</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextEmployeeTerritoriesObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbbe5679be5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbbe4ca1be4</DocumentID>
+			<Name>GetPreviousOrdersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousOrdersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.448</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousOrdersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbc07945be9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbc06f81be8</DocumentID>
+			<Name>GetCategoriesObjectWithProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetCategoriesObjectWithProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.463</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCategoriesObjectWithProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbc2ca01bed">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbc2c119bec</DocumentID>
+			<Name>GetNextSuppliersObjectsWithProducts</Name>
+			<Description>Runtime reference for Web Service Operation GetNextSuppliersObjectsWithProducts in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.474</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextSuppliersObjectsWithProducts</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbc51739bf1">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbc50eb5bf0</DocumentID>
+			<Name>GetPreviousOrdersObjectsForEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousOrdersObjectsForEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.447</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousOrdersObjectsForEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbc75035bf5">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbc747d9bf4</DocumentID>
+			<Name>GetNextCustomersObjectsWithCustomerCustomerDemo</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCustomersObjectsWithCustomerCustomerDemo in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.47</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCustomersObjectsWithCustomerCustomerDemo</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbc9a399bf9">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbc99971bf8</DocumentID>
+			<Name>GetNextEmployeesObjectsForEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetNextEmployeesObjectsForEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.485</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextEmployeesObjectsForEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbcc6309bfd">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbcc591dbfc</DocumentID>
+			<Name>GetEmployeeTerritoriesObjectsForTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeeTerritoriesObjectsForTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.435</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeeTerritoriesObjectsForTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbce7c11f01">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbce7315f00</DocumentID>
+			<Name>GetCustomersObjectWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetCustomersObjectWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.465</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetCustomersObjectWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbd0a919f05">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbd09e3df04</DocumentID>
+			<Name>GetEmployeesObjectsForEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetEmployeesObjectsForEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.431</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetEmployeesObjectsForEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbd2c929f09">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbd2bf8df08</DocumentID>
+			<Name>GetNextProductsObjectsForSuppliers</Name>
+			<Description>Runtime reference for Web Service Operation GetNextProductsObjectsForSuppliers in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.474</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextProductsObjectsForSuppliers</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbd6dba9f0d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbd6d2adf0c</DocumentID>
+			<Name>GetOrdersObjectsForEmployees</Name>
+			<Description>Runtime reference for Web Service Operation GetOrdersObjectsForEmployees in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.487</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetOrdersObjectsForEmployees</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbda0135f11">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbd9f735f10</DocumentID>
+			<Name>GetPreviousCustomerDemographicsObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousCustomerDemographicsObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.461</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousCustomerDemographicsObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbdc2541f15">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbdc1a79f14</DocumentID>
+			<Name>GetShippersObjectsWithOrders</Name>
+			<Description>Runtime reference for Web Service Operation GetShippersObjectsWithOrders in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.49</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetShippersObjectsWithOrders</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbdeba1df19">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbdeb185f18</DocumentID>
+			<Name>GetNextCustomersObjects</Name>
+			<Description>Runtime reference for Web Service Operation GetNextCustomersObjects in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.486</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetNextCustomersObjects</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbe10ad9f1d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbe0ffc1f1c</DocumentID>
+			<Name>GetProductsObject</Name>
+			<Description>Runtime reference for Web Service Operation GetProductsObject in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.477</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetProductsObject</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbe748d1f21">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbe73ef9f20</DocumentID>
+			<Name>GetProductsObjectWithOrder_x0020_Details</Name>
+			<Description>Runtime reference for Web Service Operation GetProductsObjectWithOrder_x0020_Details in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.466</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetProductsObjectWithOrder_x0020_Details</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbe9c011f25">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbe9b161f24</DocumentID>
+			<Name>UpdateCustomerDemographics</Name>
+			<Description>Runtime reference for Web Service Operation UpdateCustomerDemographics in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.437</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/UpdateCustomerDemographics</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbebdc4df29">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbebd1e9f28</DocumentID>
+			<Name>GetPreviousTerritoriesObjectsForRegion</Name>
+			<Description>Runtime reference for Web Service Operation GetPreviousTerritoriesObjectsForRegion in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.433</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetPreviousTerritoriesObjectsForRegion</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+		<WebserviceOperationRuntime
+			type="com.cordys.wsdl.WebserviceOperationRuntime"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-3bbee23f9f2d">
+			<DocumentID>000c29a3-0824-11e0-ea18-3bbee1b39f2c</DocumentID>
+			<Name>GetTerritoriesObjectsWithEmployeeTerritories</Name>
+			<Description>Runtime reference for Web Service Operation GetTerritoriesObjectsWithEmployeeTerritories in Web Service Northwind.Demo</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:10:40.455</CreationDate>
+			<Notes/>
+			<ImplementationType>DBSQL</ImplementationType>
+			<RuntimeKey>http://schemas.academy.com/northwind/demo/GetTerritoriesObjectsWithEmployeeTerritories</RuntimeKey>
+			<ISVPName>Academy Cordys Fundamentals</ISVPName>
+			<BinaryReferenceInfo></BinaryReferenceInfo>
+			<WebserviceInterface>
+				<uri
+					id="000c29a3-0824-11e0-ea18-39acac5c92ea"
+				/>
+			</WebserviceInterface>
+		</WebserviceOperationRuntime>
+	</WebserviceOperations>
+</WebserviceInterfaceRuntime>
