@@ -1,0 +1,39 @@
+
+<WSAppServerJavaArchiveSource
+	type="com.cordys.wsappserver.WSAppServerJavaArchiveSource"
+	RuntimeDocumentID="000c29a3-0824-11e0-ea2c-2a839f325721">
+	<DocumentID>000c29a3-0824-11e0-ea2c-2a839f25d720</DocumentID>
+	<Name>OrderApplication</Name>
+	<Description>OrderApplication</Description>
+	<CreatedBy>Student1</CreatedBy>
+	<CreationDate>2011-03-18T13:25:48.234</CreationDate>
+	<Notes/>
+	<JarFileName>OrderApplication</JarFileName>
+	<NamespacePrefix></NamespacePrefix>
+	<WSAppServerPackage>
+		<uri
+			id="000c29a3-0824-11e0-ea32-7c56aba7d7da"
+		/>
+	</WSAppServerPackage>
+	<Dependencies>
+		<JavaArchiveReferenceDependency
+			type="com.cordys.cws.documenttypes.javaarchivesource.JavaArchiveReferenceDependency"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea2c-2a839f1a971f">
+			<DocumentID>000c29a3-0824-11e0-ea2c-2a839f0cd71e</DocumentID>
+			<Name>OrderApplication_Dependency</Name>
+			<Description>OrderApplication_Dependency</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-18T13:25:45.449</CreationDate>
+			<Notes/>
+			<ISVPName></ISVPName>
+			<DependsOnJAR>?CORDYS_INSTALL_DIR?/components/wsappserver/wsappserver.jar</DependsOnJAR>
+		</JavaArchiveReferenceDependency>
+	</Dependencies>
+	<SourceFolder>
+		<uri
+			id="000c29a3-0824-11e0-ea2b-d5e7f48115cd"
+			path="Order Project/WS-AppServer/com/company1/orderapplication/Javasources"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WSAppServerJavaArchiveSource>

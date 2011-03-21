@@ -1,0 +1,42 @@
+
+<Project
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="000c29a3-0824-11e0-ea17-fd5f6e2492e7">
+	<DocumentID>000c29a3-0824-11e0-ea18-1ef494e8d214</DocumentID>
+	<Name>Order Project</Name>
+	<Description>Order Project</Description>
+	<CreatedBy>Student1</CreatedBy>
+	<CreationDate>2011-03-17T18:04:21.764</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="000c29a3-0824-11e0-ea18-1ef494cfd212"
+			path="Order Project"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			RuntimeDocumentID="000c29a3-0824-11e0-ea18-1ef49492920d">
+			<DocumentID>000c29a3-0824-11e0-ea18-1ef49486120c</DocumentID>
+			<Name>Cordys Order Project</Name>
+			<Description>Cordys Order Project</Description>
+			<CreatedBy>Student1</CreatedBy>
+			<CreationDate>2011-03-17T18:04:21.765</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<ISVPackageFileName>Cordys Order Project 1.0.0</ISVPackageFileName>
+			<Version>1.0</Version>
+			<Product>Order Project</Product>
+			<PostISVLoaderInformation/>
+			<PackageForRuntime>true</PackageForRuntime>
+			<ISVPackageOwner>Cordys</ISVPackageOwner>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+</Project>
