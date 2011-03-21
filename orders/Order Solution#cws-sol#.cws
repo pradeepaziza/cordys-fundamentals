@@ -1,0 +1,16 @@
+
+<Solution
+	type="com.cordys.cws.documenttypes.solution.Solution"
+	RuntimeDocumentID="000c29a3-0824-11e0-ea17-fd60712bd313">
+	<DocumentID>000c29a3-0824-11e0-ea17-fd607112d312</DocumentID>
+	<Name>Order Solution</Name>
+	<Description>Order Solution</Description>
+	<CreatedBy>Student1</CreatedBy>
+	<CreationDate>2011-03-17T18:00:56.713</CreationDate>
+	<Notes/>
+	<Projects>
+		<uri
+			id="000c29a3-0824-11e0-ea18-1ef494e8d214"
+		/>
+	</Projects>
+</Solution>
